@@ -51,7 +51,9 @@ Before building the dashboard, the dataset was transformed using Power Query:
 - Satisfaction metrics provide insight into workforce retention patterns  
 
 🚀 Project Outcome
+
 Transformed raw survey data using Power Query and built an interactive Power BI dashboard leveraging DAX measures and structured data modeling to deliver actionable analytical insights.
+
 
 
 
